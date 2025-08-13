@@ -160,3 +160,4 @@ elif page == "Model Performance":
 #         st.success("This wine is predicted to be **Good** 🍷✅")
 #     else:
 #         st.error("This wine is predicted to be **Bad** 🍷❌")
+
